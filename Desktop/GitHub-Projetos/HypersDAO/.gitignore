@@ -1,0 +1,8 @@
+# não subir tokens reais
+config.py
+
+# python cache
+__pycache__/
+*.pyc
+venv/
+.env
