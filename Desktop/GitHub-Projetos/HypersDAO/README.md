@@ -1,10 +1,13 @@
 # 🤖 HypersDAO Telegram Bot
 
-Bot automático para monitoramento da HypersDAO com relatórios em tempo real via Telegram.
+Bot automático para monitoramento da HypersDAO com relatórios em tempo real
 
-![Python](https://img.shields.io/badge/Python-3.13-blue.svg)
-![Telegram](https://img.shields.io/badge/Telegram-Bot_API-blue.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Python Version](https://img.shields.io/badge/python-3.7%2B-blue)
+![Telegram API](https://img.shields.io/badge/telegram-bot%20API-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Status](https://img.shields.io/badge/status-active-success)
+![Last Commit](https://img.shields.io/github/last-commit/devdavidejesus/hypersdao-telegram-bot)
+![Repo Size](https://img.shields.io/github/repo-size/devdavidejesus/hypersdao-telegram-bot)
 
 ## ✨ Funcionalidades
 
@@ -68,3 +71,17 @@ Adicione config.py no .gitignore
 Davi de Jesus
 
 GitHub: @devdavidejesus
+
+## 🤝 Contribuindo
+
+Contribuições são sempre bem-vindas! 
+
+1. Faça um fork do projeto
+2. Crie uma branch para sua feature (`git checkout -b feature/AmazingFeature`)
+3. Commit suas mudanças (`git commit -m 'Add some AmazingFeature'`)
+4. Push para a branch (`git push origin feature/AmazingFeature`)
+5. Abra um Pull Request
+
+## 🐛 Reportando Bugs
+
+Se encontrar algum bug, por favor abra uma [issue](https://github.com/devdavidejesus/hypersdao-telegram-bot/issues) no GitHub.
